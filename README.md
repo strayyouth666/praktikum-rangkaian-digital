@@ -1,4 +1,4 @@
-# smartcare_web
+# praktikum-rangkaian-digital
 
 smartcare web based
 
