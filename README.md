@@ -1,6 +1,5 @@
 # praktikum-rangkaian-digital
-
-smartcare web based
+web flutter with python file for configuration in raspberry pi4
 
 ## Getting Started
 
