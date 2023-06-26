@@ -1,0 +1,1 @@
+enum NavigationPopupDialogs { notification, user, message, none }
